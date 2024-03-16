@@ -2,9 +2,9 @@
 <!--Open VIP can improve the speed of decompilation, resource code translate to name automatically and activate the smart editing and automatic completion function-->
 <device name="Android">
 <item name="none">0</item>
-<item name="ambient.on">20</item>
-<item name="screen.on">76</item>
-<item name="screen.full">297.5</item>
+<item name="ambient.on.display0">20</item>
+<item name="screen.on.display0">76</item>
+<item name="screen.full.display0">297.5</item>
 <item name="bluetooth.active">0</item>
 <item name="bluetooth.on">0</item>
 <item name="wifi.on">0</item>
