@@ -16,7 +16,7 @@ git clone https://github.com/tqmane/device_samsung_sdm845-common -b fourteen dev
 echo 'Cloning Device Tree [3/6]'
 # Device tree for starqltechn
 rm -rf device/samsung/starqltechn
-git clone https://github.com/tqmane/device_samsung_starqltedcm -b thirteen device/samsung/starqltechn
+git clone https://github.com/tqmane/device_samsung_starqltedcm -b thirteen device/samsung/starqltedcm
 
 echo 'Cloning Vendor Trees [4/6]'
 rm -rf vendor/samsung/sdm845-common

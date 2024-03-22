@@ -34,7 +34,7 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := aosp_starqltedcm
-PRODUCT_DEVICE := SC-02K
+PRODUCT_DEVICE := starqltedcm
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SC-02K
 PRODUCT_MANUFACTURER := samsung
